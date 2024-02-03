@@ -35,3 +35,6 @@ TeleBotAssistant is packaged as a Docker application. If you have Docker and Doc
 By default, the bot will run in the foreground and log to the console. You can stop the bot by pressing `Ctrl+C`.
 
 We hope you enjoy using the TeleBotAssistant and are excited to see what you will do with it!
+
+## Example
+![Example](./images/bot_image.png)
