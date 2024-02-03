@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  bot_assistant:
+    build: .
+    volumes:
+      - .:/app
+    restart: always
